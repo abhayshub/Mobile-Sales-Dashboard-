@@ -86,6 +86,8 @@ Major cities contributed significantly to total revenue.
 
 📷 Dashboard Preview
 
+https://github.com/abhayshub/Mobile-Sales-Dashboard-/blob/main/Mobile%20Sales%20Dashboard.png
+
 
 
 
